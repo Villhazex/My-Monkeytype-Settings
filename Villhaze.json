@@ -98,7 +98,7 @@
     "monkey": true,
     "repeatQuotes": "off",
     "oppositeShiftMode": "off",
-    "customBackground": "https://imgur.com/a/imUkpep",
+    "customBackground": "https://raw.githubusercontent.com/Villhazex/My-Monkeytype-Settings/refs/heads/main/background.gif",
     "customBackgroundSize": "cover",
     "customBackgroundFilter": [
         0,
@@ -128,5 +128,5 @@
     "tapeMode": "off",
     "tapeMargin": 50,
     "maxLineWidth": 0,
-    "playTimeWarning": "5"
+    "playTimeWarning": "off"
 }
